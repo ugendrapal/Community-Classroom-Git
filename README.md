@@ -1,5 +1,4 @@
 # Community-Classroom-Git
 
-This is the merge conflict example
-
-This is the merge conflict example 2
+I belive this community is amazing
+This is the merge conflict example which is been shown here.
